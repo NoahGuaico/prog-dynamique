@@ -1,14 +1,14 @@
 class DocumentInfos:
 
-    title = u'Programmation dynamique'
-    first_name = 'Cédric'
-    last_name = 'Donner'
+    title = u'Les failles zéro day'
+    first_name = 'Noah'
+    last_name = 'Guaico'
     author = f'{first_name} {last_name}'
     year = u'2022'
-    month = u'Juillet'
-    seminary_title = u'Algorithmes et structures de données II'
+    month = u'Décemenbre'
+    seminary_title = u'Travail personnel OCI'
     tutor = u"Cédric Donner"
-    release = "(Version finale)"
+    release = "(Version première)"
     repository_url = "https://github.com/donnerc/prog-dynamique"
 
     @classmethod
